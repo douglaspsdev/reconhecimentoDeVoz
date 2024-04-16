@@ -1,0 +1,2 @@
+# reconhecimentoDeVoz
+numero-secreto
